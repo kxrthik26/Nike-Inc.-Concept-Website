@@ -1,0 +1,147 @@
+{
+	"shoes": [
+        {   
+            "id":"shoe1",
+            "name":"Nike Air Zoom Pegasus 38 Shield",
+            "gender":"Men",
+            "style":"Running",
+            "sizes":[5, 6, 7, 8, 9, 10, 11, 12],
+            "price":129.00,
+            "color":"Black",
+            "description":"Wet weather can’t stop your daily running habit when you lace up your workhorse with wings. We set out to keep your feet both warm and dry in damp conditions, so we added details like a gusseted, insulated tongue and a warm upper that's finished with a weatherized coating. Tire-inspired grip creates tough traction to help keep you moving on slick streets.",
+            "picture":"images/shoes/shoe1/Nike Air Zoom Pegasus 38 Shield.jpg",
+            "url":"products/shoe1.html"
+        },
+		{
+            "id":"shoe2",
+            "name":"Nike Pegasus Trail 3",
+            "gender":"Women",
+            "style":"Running",
+            "sizes":[4, 5, 6, 7, 8],
+			"price":129.00,
+            "color":"Green",
+			"description":"Find your wings with an off-road run. The Nike Pegasus Trail 3 has the same comfort you love, with a design that nods to the classic Pegasus look. Nike React foam delivers responsive cushioning while tough traction helps you stay moving through rocky terrain. More support around the midfoot helps you feel secure on your journey.",
+			"picture":"images/shoes/shoe2/Nike Pegasus Trail 3",
+			"url":"products/shoe2.html"
+        },
+        {
+            "id":"shoe3",
+            "name":"Nike SB Chron 2",
+            "gender":"Universal",
+            "style":"Lifestyle",
+            "sizes":[4, 5, 6, 7, 8, 9, 10],
+			"price":69.00,
+            "color":"Red",
+			"description":"Flexible and breathable, the Nike SB Chron 2 is a sequel worthy of its predecessor. The revamped design includes a reshaped collar and heel for an improved fit—all while maintaining the comfort and performance you expect from Nike SB.",
+			"picture":"images/shoes/shoe3.jpeg",
+			"url":"products/shoe3.html"
+        },
+        {
+            "id":"shoe4",
+            "name":"LeBron 19",
+            "gender":"Men",
+            "style":"Basketball",
+            "sizes":[6, 7, 8, 9, 10, 11, 12],
+			"price":199.00,
+            "color":"White",
+			"description":"LeBron thrives when stakes are high and the pressure’s on. The LeBron 19 harnesses that energy with a locked-in fit and an updated cushioning system. The snug inner sleeve is pulled together by a sculpted overlay that the laces feed through to help prevent the foot from moving inside the shoe. Embedded pods in the tongue and around the collar help reduce weight, keep the ankle aligned, and give players the secure feel and confidence to go all out when the game is on the line.",
+			"picture":"images/shoes/shoe4.jpeg",
+			"url":"products/shoe4.html"
+        },
+        {
+            "id":"shoe5",
+            "name":"Nike Adapt BB 2.0",
+            "gender":"Men",
+            "style":"Basketball",
+            "sizes":[6, 7, 10, 12],
+			"price":249.00,
+            "color":"Blue",
+			"description":"Riding the momentum of last year's hit auto-lacing basketball shoe, the Nike Adapt BB 2.0 delivers the same consistent, customized fit, now with more of the game-changing technology revealed. Ultra-responsive cushioning is curved to follow the natural motion of your foot, providing continuous energy return on the court.",
+			"picture":"images/shoes/shoe5.jpeg",
+			"url":"products/shoe5.html"
+        },
+        {
+            "id":"shoe6",
+            "name":"Nike Mercurial Superfly 8 Elite FG",
+            "gender":"Women",
+            "style":"Football",
+            "sizes":[4, 5, 6, 7],
+			"price":249.00,
+            "color":"Green",
+			"description":"The Nike Mercurial Superfly 8 Elite FG features a new look with specialized components to let you play your fastest from start to finish. A stretchy collar provides extra support, and the innovative plate provides instant responsiveness for quicker cuts at high speeds.",
+			"picture":"images/shoes/shoe6.jpeg",
+			"url":"products/shoe6.html"
+        },
+        {
+            "id":"shoe7",
+            "name":"Nike Force Savage Elite 2",
+            "gender":"Men",
+            "style":"Football",
+            "sizes":[5, 6, 7, 9, 10],
+			"price":139.00,
+            "color":"Red",
+			"description":"Dig in with the Nike Force Savage Elite 2. Its durable exterior is detailed with molding at the toe. A Nike Fastflex outsole sets you up with an articulate design so you can freely move in every direction.",
+			"picture":"images/shoes/shoe7.jpeg",
+			"url":"products/shoe7.html"
+        },
+        {
+            "id":"shoe8",
+            "name":"Nike Air Presto",
+            "gender":"Universal",
+            "style":"Lifestyle",
+            "sizes":[5, 6, 7, 9, 10],
+			"price":129.00,
+            "color":"White",
+			"description":"With a sleek design that's more comfortable than your favorite t-shirt, the Nike Air Presto is made to feel good and look fast. Its stretchy sleeve creates a cozy, sock-like fit while the super-soft foam adds spring to your step. Put them on and you'll never want to take them off.",
+			"picture":"images/shoes/shoe8.jpeg",
+			"url":"products/shoe8.html"
+        },
+        {
+            "id":"shoe9",
+            "name":"Nike Air Zoom Structure 24",
+            "gender":"Women",
+            "style":"Running",
+            "sizes":[4, 5, 6, 8],
+			"price":119.00,
+            "color":"Black",
+			"description":"Get ready to hit the road in the responsive cushioning and secure fit of the Nike Air Zoom Structure 24. We tested hundreds of runners to design the crash pad under your heel that creates a cushioned, smooth transition from heel to toe. Those insights also created an airy upper with breathability right where you need it.",
+			"picture":"images/shoes/shoe9.jpeg",
+			"url":"products/shoe9.html"
+        },
+        {
+            "id":"shoe10",
+            "name":"Nike Waffle One Crater SE",
+            "gender":"Women",
+            "style":"Running",
+            "sizes":[4, 5, 6, 7],
+			"price":99.00,
+            "color":"Green",
+			"description":"Bringing the classic BRS track style into a modern realm with at least 20% recycled materials by weight, the Nike Waffle One Crater is eye candy for your feet. The playful speckled look on the midsole is created from Crater Foam, a cushiony material made from Nike Grind rubber and Nike foam materials. And for added depth, the sport-inspired upper includes transparent mesh to let your sock game shine.",
+			"picture":"images/shoes/shoe10.jpeg",
+			"url":"products/shoe10.html"
+        },
+        {
+            "id":"shoe11",
+            "name":"PG 5 By You",
+            "gender":"Men",
+            "style":"Basketball",
+            "sizes":[5, 7, 8, 10, 12],
+			"price":129.00,
+            "color":"Red",
+			"description":"Get that special game day look. The unlocked PG 5 By You gives you the freedom to create left and right shoes independently for a totally custom pair. Classic varsity colors get an extra punch of personality with special hues and graphics that nod to PG’s love of fishing and the outdoors.",
+			"picture":"images/shoes/shoe11.jpeg",
+			"url":"products/shoe11.html"
+        },
+        {
+            "id":"shoe12",
+            "name":"Nike SB Zoom Blazer Mid",
+            "gender":"Universal",
+            "style":"Lifestyle",
+            "sizes":[5, 6, 7, 11],
+			"price":49.00,
+            "color":"Blue",
+			"description":"The Nike SB Zoom Blazer Mid takes a heritage design and tailors it to the needs of the modern skateboarder. Soft cushioning and a flexible sole work together to provide great boardfeel and traction.",
+			"picture":"images/shoes/shoe12.jpeg",
+			"url":"products/shoe12.html"
+        }
+]}

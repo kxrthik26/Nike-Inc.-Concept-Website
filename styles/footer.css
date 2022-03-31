@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+
+.pg_footer {
+	padding: 70px;
+	background-color: #27ff9c;
+}
+
+.social_icon {
+	max-width: 30px;
+	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	margin-top: 20px;
+}
+
+.trdmrk {
+	color: #1d1d1d;
+	font-size: 12px;
+	text-align: center;
+	margin-top: 70px;
+	margin-bottom: -40px;
+}
